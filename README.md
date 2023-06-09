@@ -24,4 +24,4 @@
 <h2>Data resources:</h2>
 For crop recommendation system [ 2,200 samples ], https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset<br/>
 For early plant disease prediction system [ 87,867 samples ], https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset <br/>
-<h3>End</h3>
+<h2>End</h2>
