@@ -14,9 +14,13 @@ Agriculture is the primary source in providing food for entire world. Greater th
 <ol>
   <li>Crop Recommendation System: to predict suitable crop from the minimum number of environmental features</li>
  <li> Plant Disease Prediction System: to predict disease with the minimum number of architectural parameters</li>
-</ol><br>
+</ol>
 <h2> Algorithms used: </h2>
 <ol>
   <li>Crop Recommendation System: Random Forest Classifier- 97.04%</li>
  <li> Plant Disease Prediction System: Convolutional Neural Network- 93.61%.</li>
 </ol>
+<h2>Data resources:</h2>
+For plant recommendation system, https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset<br/>
+For plant disease prediction system, https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset <br/>
+# End
