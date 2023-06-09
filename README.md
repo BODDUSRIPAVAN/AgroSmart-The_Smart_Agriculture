@@ -18,7 +18,7 @@
 </ol>
 <h2> Algorithms proposed: </h2>
 <ol>
-  <li>Crop Recommendation System: Random Forest Classifier- 97.04%</li>
+  <li>Crop Recommendation System: Random Forest Classifier- 97.05%</li>
  <li> Early Plant Disease Prediction System: Convolutional Neural Network- 93.61%.</li>
 </ol>
 <h2>Data resources:</h2>
