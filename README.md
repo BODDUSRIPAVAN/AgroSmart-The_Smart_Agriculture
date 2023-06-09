@@ -23,4 +23,4 @@ Agriculture is the primary source in providing food for entire world. Greater th
 <h2>Data resources:</h2>
 For plant recommendation system, https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset<br/>
 For plant disease prediction system, https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset <br/>
-# End
+<h5>End</h5>
