@@ -16,7 +16,7 @@
   <li>Crop Recommendation System: to predict suitable crop from the minimum number of environmental features</li>
  <li> Plant Disease Prediction System: to predict disease with the minimum number of architectural parameters</li>
 </ol>
-<h2> Algorithms used: </h2>
+<h2> Algorithms proposed: </h2>
 <ol>
   <li>Crop Recommendation System: Random Forest Classifier- 97.04%</li>
  <li> Plant Disease Prediction System: Convolutional Neural Network- 93.61%.</li>
