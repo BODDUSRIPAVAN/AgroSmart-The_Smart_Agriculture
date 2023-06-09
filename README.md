@@ -8,7 +8,7 @@ Agriculture is the primary source in providing food for entire world. Greater th
  <li> Plant Disease Prediction System: to predict disease with the minimum number of architectural parameters</li>
 </ol>
 </div>
- ### Algorithms used:
+### Algorithms used:
 <ol>
   <li>Crop Recommendation System: Random Forest Classifier- 97.04%</li>
  <li> Plant Disease Prediction System: Convolutional Neural Network- 93.61%.</li>
