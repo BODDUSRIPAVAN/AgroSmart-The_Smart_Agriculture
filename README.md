@@ -1,7 +1,7 @@
 # AgroSmart - The Smart Agriculture
 <br>
 <h3>Project Guide: Mr. T. Chandrasekhar</h3> 
-<h3>Team members:</h3>
+<h3>Our Team:</h3>
 <ol>
   <li>Boddu Sri Pavan (N180606) - Team Lead, Machine learning engineer, Data scientist</li>
   <li>Bandi Vikram Kumar (N181167) - Machine learning engineer</li>
