@@ -22,6 +22,6 @@
  <li> Early Plant Disease Prediction System: Convolutional Neural Network- 93.61%.</li>
 </ol>
 <h2>Data resources:</h2>
-For plant recommendation system [2200 samples], https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset<br/>
-For plant disease prediction system [87,867 samples], https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset <br/>
+For plant recommendation system [2, 200 samples], https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset<br/>
+For plant disease prediction system [87, 867 samples], https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset <br/>
 <h3>End</h3>
