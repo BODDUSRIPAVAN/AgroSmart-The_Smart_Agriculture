@@ -3,11 +3,11 @@
 <h3>Project Guide: Mr. T. Chandrasekhar</h3> 
 <h3>Team members:</h3>
 <ol>
-  <li><h4>Boddu Sri Pavan (N180606) - Team Lead, Machine Learning Engineer, Problem solver</h4></li>
-  <li><h4>Bandi Vikram Kumar (N181167) - Machine Learning Engineer, Problem solver</h4></li>
-  <li><h4>Mannem Pavan Kumar (N181167) - Machine Learning Engineer, Problem solver</h4></li>
-  <li><h4>Mallidi Sandhyarani (N181167) - Machine Learning Engineer, Problem solver</h4></li>
-  <li><h4>Pragada Padma Priya (N181167) - Machine Learning Engineer, Problem solver</h4></li>
+  <li><h4>Boddu Sri Pavan (N180606) - Team Lead, Machine Learning Engineer, Data Analyst</h4></li>
+  <li><h4>Bandi Vikram Kumar (N181167) - Machine Learning Engineer</h4></li>
+  <li><h4>Mannem Pavan Kumar (N181167) - Machine Learning Engineer</h4></li>
+  <li><h4>Mallidi Sandhyarani (N181167) - Content writer</h4></li>
+  <li><h4>Pragada Padma Priya (N181167) - Content writer</h4></li>
 </ol>
 <h2> Description: </h2>
 Agriculture is the primary source in providing food for entire world. Greater than 45% of the world and 70% of the Indian Population relies on agriculture for its livelihood. Around 50% of loss in crop yield is reported due to pests and diseases. Wrong selection of crop leads to soil infertility as well as crop failure. Early prediction of diseases can save crops. Our project presents state-of-the-art models 
