@@ -1,4 +1,5 @@
 # AgroSmart - The Smart Agriculture
+![smart-farming-smart-agriculture-iot](https://github.com/BODDUSRIPAVAN/AgroSmart-The_Smart_Agriculture/assets/104664633/2574820f-c890-4ea5-a68e-93ebad70ff93)
 <br>
 <h3>Project Guide: Mr. T. Chandrasekhar</h3> 
 <h3>Our Team:</h3>
