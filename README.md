@@ -6,7 +6,7 @@ Execution Video: https://github.com/BODDUSRIPAVAN/AgroSmart-The_Smart_Agricultur
 <h3>Project Guide: Mr. T. Chandrasekhar</h3> 
 <h3>Our Team:</h3>
 <ol>
-  <li>Boddu Sri Pavan (N180606) - Team Lead, ML Engineer, Data scientist</li>
+  <li>Boddu Sri Pavan (N180606) - Team Lead, AI ML Engineer</li>
   <li>Bandi Vikram Kumar (N181167) - ML Engineer, Python developer</li>
   <li>Mannem Pavan Kumar (N180520) - Python developer, Content writer</li>
   <li>Mallidi Sandhyarani (N181108) - Web developer, Content writer</li>
