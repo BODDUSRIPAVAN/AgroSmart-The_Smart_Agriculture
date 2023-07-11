@@ -10,7 +10,7 @@
   <li>Mallidi Sandhyarani (N181108) - Web developer, Content writer</li>
   <li>Pragada Padma Priya (N180272) - Web developer, Content writer</li>
 </ol>
-<h2> Description: </h2>
+<h2> Abstract: </h2>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Agriculture is the primary source in providing food for entire world. Greater than 45% of the world and 70% of the Indian Population relies on agriculture for its livelihood. Around 50% of loss in crop yield is reported due to pests and diseases. Wrong selection of crop leads to soil infertility as well as crop failure. Early prediction of diseases can save crops. To overcome these two major farming challenges, our project presents state-of-the-art models:
 <ol>
   <li>Crop Recommendation System: to predict suitable crop from the minimum number of environmental features</li>
